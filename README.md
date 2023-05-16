@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Back-End, Superior de Tecnologia em Análise e Des. de Sistemas e Linux ...
 - 😄 Pronouns: Ele/Dele
-- 
+
  <div>
    <a href="https://github.com/Foxsnk">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Foxsnk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
